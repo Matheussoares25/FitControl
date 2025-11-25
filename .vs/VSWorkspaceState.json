@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\FItcontrol",
+    "\\FItcontrol\\FItcontrol"
   ],
+  "SelectedNode": "\\FItcontrol\\FItcontrol\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
