@@ -5,6 +5,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{4468D2C0-137C-40F9-8CBB-5D0B70843A7D}|FItcontrol\\FItcontrol.csproj|c:\\users\\lab1062\\desktop\\fitcontrol\\fitcontrol\\fitcontrol\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4468D2C0-137C-40F9-8CBB-5D0B70843A7D}|FItcontrol\\FItcontrol.csproj|solutionrelative:fitcontrol\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4468D2C0-137C-40F9-8CBB-5D0B70843A7D}|FItcontrol\\FItcontrol.csproj|c:\\users\\lab1062\\desktop\\fitcontrol\\fitcontrol\\fitcontrol\\unidade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4468D2C0-137C-40F9-8CBB-5D0B70843A7D}|FItcontrol\\FItcontrol.csproj|solutionrelative:fitcontrol\\unidade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4468D2C0-137C-40F9-8CBB-5D0B70843A7D}|FItcontrol\\FItcontrol.csproj|c:\\users\\lab1062\\desktop\\fitcontrol\\fitcontrol\\fitcontrol\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4468D2C0-137C-40F9-8CBB-5D0B70843A7D}|FItcontrol\\FItcontrol.csproj|solutionrelative:fitcontrol\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +22,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Unidade.cs",
+              "DocumentMoniker": "C:\\Users\\lab1062\\Desktop\\FitControl\\FItcontrol\\FItcontrol\\Unidade.cs",
+              "RelativeDocumentMoniker": "FItcontrol\\Unidade.cs",
+              "ToolTip": "C:\\Users\\lab1062\\Desktop\\FitControl\\FItcontrol\\FItcontrol\\Unidade.cs",
+              "RelativeToolTip": "FItcontrol\\Unidade.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T22:34:59.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Pessoa.cs",
+              "DocumentMoniker": "C:\\Users\\lab1062\\Desktop\\FitControl\\FItcontrol\\FItcontrol\\Pessoa.cs",
+              "RelativeDocumentMoniker": "FItcontrol\\Pessoa.cs",
+              "ToolTip": "C:\\Users\\lab1062\\Desktop\\FitControl\\FItcontrol\\FItcontrol\\Pessoa.cs",
+              "RelativeToolTip": "FItcontrol\\Pessoa.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T22:32:33.03Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +58,7 @@
               "RelativeDocumentMoniker": "FItcontrol\\Program.cs",
               "ToolTip": "C:\\Users\\lab1062\\Desktop\\FitControl\\FItcontrol\\FItcontrol\\Program.cs",
               "RelativeToolTip": "FItcontrol\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-25T22:24:59.946Z",
               "EditorCaption": ""
