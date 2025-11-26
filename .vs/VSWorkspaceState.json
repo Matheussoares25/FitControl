@@ -3,6 +3,10 @@
     "",
     "\\FItcontrol"
   ],
+<<<<<<< HEAD
   "SelectedNode": "\\FItcontrol",
+=======
+  "SelectedNode": "\\FItcontrol\\Unidade.cs",
+>>>>>>> c98bdf14d9aeb191ff4cc4be2eef94d5f6829ac3
   "PreviewInSolutionExplorer": false
 }

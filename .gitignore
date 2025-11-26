@@ -75,9 +75,12 @@ publish/
 
 # NuGet Packages Directory
 ## TODO: If you have NuGet Package Restore enabled, uncomment the next line
-packages/
 
-!packages/repositories.config
+
+<<<<<<< HEAD
+=======
+
+>>>>>>> db0e767e0f5683f264e14d53ef33af99cf7c29a7
 
 
 csx/
