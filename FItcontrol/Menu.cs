@@ -43,7 +43,7 @@ namespace FItcontrol
                                     case "1":
 
                                         MySqlConnection conexao;
-                                        conexao = new MySqlConnection("server=127.0.0.1;uid=root;pwd='';database=academia; Port=3306");
+                                        conexao = new MySqlConnection("server=127.0.0.1;uid=root;pwd='root';database=academia; Port=3306");
 
                                         try
                                         {
@@ -73,7 +73,7 @@ namespace FItcontrol
 
                                     case "2":
 
-                                        conexao = new MySqlConnection("server=127.0.0.1;uid=root;pwd='';database=academia; Port=3306");
+                                        conexao = new MySqlConnection("server=127.0.0.1;uid=root;pwd='root';database=academia; Port=3306");
 
                                         try
                                         {
