@@ -66,7 +66,6 @@ namespace FItcontrol
                                         cmdCa.Parameters.AddWithValue("@idade", this.Idade);
                                         cmdCa.Parameters.AddWithValue("@genero", this.Genero);
 
-                                        int linhas = cmdCa.ExecuteNonQuery();
                                         Console.WriteLine("Aluno Cadastrado no Plano Basico!! \n\nPressione ENTER para continuar...");
                                         Console.ReadLine();
                                         Console.Clear();
