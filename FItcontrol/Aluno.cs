@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace FItcontrol
 {
-    internal class Aluno
+     class Aluno:Pessoa
     {
+        public string Nmatricula { get; set; }
     }
 }
