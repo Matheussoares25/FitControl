@@ -96,7 +96,6 @@ namespace FItcontrol
                                         cmdCa1.Parameters.AddWithValue("@idade", this.Idade);
                                         cmdCa1.Parameters.AddWithValue("@genero", this.Genero);
 
-                                        int linhas1 = cmdCa1.ExecuteNonQuery();
                                         Console.WriteLine("Aluno Cadastrado no Plano Premium!! \n\nPressione ENTER para continuar...");
                                         Console.ReadLine();
                                         Console.Clear();
